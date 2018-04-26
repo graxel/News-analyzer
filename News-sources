@@ -1,4 +1,7 @@
 CNN
+
+https://developer.cnn.com/docs/basics/keys/#firstPublishDate
+
 FOX
 CBS
 ABC
@@ -10,3 +13,9 @@ US News
 NY Times
 USA Today
 Star Ledger
+
+NewsAPI.org API key: 2d2757dedcbb49398de5f5ea3342068a
+
+https://newsapi.org/v2/everything?sources=||cnn||&pagesize=||10||&page=||1||&apiKey=2d2757dedcbb49398de5f5ea3342068a
+
+https://newsapi.org/v2/sources?apiKey=2d2757dedcbb49398de5f5ea3342068a
