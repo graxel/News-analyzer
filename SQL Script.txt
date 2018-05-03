@@ -1,0 +1,6 @@
+.open C:/Users/Grazillionaire/Documents/GitHub/News-analyzer/Databases/test2.db
+.tables
+SELECT * FROM news;
+.output "C:/Users/Grazillionaire/Documents/GitHub/News-analyzer/Databases/test2_output.txt"
+SELECT * FROM news;
+.output stdout
